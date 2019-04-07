@@ -1,0 +1,6 @@
+id=midopixelbootanimation
+name=Mido Pixel Bootanimation 
+version=0.1
+versionCode=20190408
+author=Dicky Herlambang
+description=A Simple module to change bootanimation to google pixel for mido, port from Pixel Experience ROM for mido.
